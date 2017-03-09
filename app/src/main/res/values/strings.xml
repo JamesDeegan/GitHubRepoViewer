@@ -6,4 +6,6 @@
     <string name="username">James</string>
     <string name="button_connect">Connect</string>
     <string name="public_repos">Public Repo\'s</string>
+
+    <string name="bullet">\u2022</string>
 </resources>
