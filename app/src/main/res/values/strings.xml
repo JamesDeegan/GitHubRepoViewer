@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Git Project</string>
+
+    <string name="github_username">Username</string>
+    <string name="github_viewer">Github Repo Viewer</string>
+    <string name="username">James</string>
+    <string name="button_connect">Connect</string>
+    <string name="public_repos">Public Repo\'s</string>
+</resources>

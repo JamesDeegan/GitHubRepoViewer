@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blueAccent">#7bc2ff</color>
+    <color name="background">#232228</color>
+    <color name="textPrimary">#dadbd9</color>
+    <color name="textPrimarySubtle">#5a5a5c</color>
+
+    <color name="colorPrimary">#37a9e0</color>
+    <color name="colorPrimaryLight">#87c3e0</color>
+    <color name="colorPrimaryDark">#19181d</color>
+    <color name="colorAccent">#50b6e6</color>
+
+    <color name="white">#fafafa</color>
+    <color name="whitePure">#ffffff</color>
+    <color name="blue">#48b3ff</color>
+
+    <color name="darkGrey">#24292e</color>
+    <color name="mediumGrey">#30373e</color>
+    <color name="lightGrey">#4e5964</color>
+
+    <color name="greyForeground">#2e333e</color>
+    <color name="greyBackground">#1e1d25</color>
+    <color name="greyText">#bbbabd</color>
+
+    <color name="textToolbar">#858ea2</color>
+
+
+    <color name="lightText">#b3c9ca</color>
+
+    <color name="alphaLighter">#aaffffff</color>
+
+
+</resources>
